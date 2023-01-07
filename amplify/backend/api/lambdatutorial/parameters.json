@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "lambdatutorial",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-01-07T15:28:18.097Z"
+}

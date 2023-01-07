@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lambdatutorial-dev-231828-authRole",
+      "UnauthRoleArn": "arn:aws:iam::642615880003:role/amplify-lambdatutorial-dev-231828-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::642615880003:role/amplify-lambdatutorial-dev-231828-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-lambdatutorial-dev-231828-deployment",
+      "UnauthRoleName": "amplify-lambdatutorial-dev-231828-unauthRole",
+      "StackName": "amplify-lambdatutorial-dev-231828",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:642615880003:stack/amplify-lambdatutorial-dev-231828/290586a0-8e96-11ed-9220-0e3ab9d385cf",
+      "AmplifyAppId": "du73kudbpppl1"
+    }
+  }
+}
